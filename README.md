@@ -5,4 +5,4 @@ Documentation: [https://docs.google.com/document/d/1BH5FnUz10v4oqtXS7D-VtFsxaEqE
 
 Save Steam profile: https://steamcommunity.com/id/Aiz_Save/
 
-All RPG_Classes content is licensed under CC0 1.0
+All Modify_RPG_Classes_Example content is licensed under CC0 1.0
