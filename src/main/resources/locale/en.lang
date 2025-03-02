@@ -1,0 +1,36 @@
+[rpgclass]
+
+// Classes
+example=Example
+
+// Principal Abilities
+tank=Tank
+bastion=Bastion
+
+// Basic Abilities
+morehealth=More Health
+
+// Abilities
+fighterability=Fighter Ability
+reducedamage=Reduce Damage
+
+
+[abilitydescription]
+
+// Principal Abilities
+tank_0=+20% Melee and Range damage\nDamage to attackers based on your armor\nHalf damage to distant attackers\n-50% Mana
+bastion_0=+100% Total Health and Health Regen\nIncreases Melee Damage and movement speed while\nattacking by +1% for each 1% of Health lost\nYour armor, resilience and mana stats will be always 0
+
+// Basic Abilities
+morehealth_0=+5 Max Health
+morehealth_1=+10 Max Health
+morehealth_2=+15 Max Health
+morehealth_3=+20 Max Health
+morehealth_4=+30 Max Health
+morehealth_5=+40 Max Health
+
+// Abilities
+fighterability_0=Perform double knockback
+reducedamage_0=-10% Incoming Damage for 5 seconds after taking a hit
+reducedamage_1=-10% Incoming Damage for 5 seconds after taking a hit. Stack up to 2 times
+reducedamage_2=-10% Incoming Damage for 5 seconds after taking a hit. Stack up to 4 times
